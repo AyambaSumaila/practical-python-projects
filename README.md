@@ -1,4 +1,4 @@
-# Python-Projects-
+# Project Descriptions
 This repository contains Python Projects
 In this project I will be be creating a database of books that are stored
 using a  List. Keep track of the author, title, and publication date of each book.
