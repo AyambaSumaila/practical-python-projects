@@ -1,0 +1,7 @@
+Average of Numbers
+Assume that a file containing a students exams score and their names
+ alphabetically
+ is named records.txt and exists on the
+computer’s disk. Write a program that calculates the
+ average of each student's  grade and store the result in
+the file named grades.txt

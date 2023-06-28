@@ -1,0 +1,81 @@
+
+Ghana ,   89
+Hantu,  80
+Wanti,  91
+Mamad,  78
+Ghana,  83
+Hantu,   80
+Wanti,  71
+Mamad,  78
+Ghana,   69
+Hantu,   80
+Wanti , 70
+Mamad , 78
+Ghana,   99
+Hantu,  80
+Wanti,  91
+Mamad, 75
+Ghana,   89
+Hantu,  84
+Wanti,  91
+Mamad,  78
+Ghana,  83
+Hantu,   80
+Wanti,  71
+Mamad,  78
+Ghana,   69
+Hantu,   80
+Wanti , 70
+Mamad , 78
+Ghana,   99
+Hantu,  80
+Wanti,  91
+Mamad, 75
+Ghana,   89
+Hantu,  83
+Wanti,  91
+Mamad,  78
+Ghana,  83
+Hantu,   80
+Wanti,  92
+Mamad,  78
+Ghana,   69
+Hantu,   80
+Wanti , 70
+Mamad , 78
+Ghana,   99
+Hantu,  80
+Wanti,  91
+Mamad, 75
+Ghana,   89
+Hantu,  80
+Wanti,  91
+Mamad,  78
+Ghana,  83
+Hantu,   80
+Wanti,  71
+Mamad,  78
+Ghana,   69
+Hantu,   80
+Wanti , 70
+Mamad , 71
+Ghana,   99
+Hantu,  80
+Wanti,  91
+Mamad, 85
+Ghana,   89
+Hantu,  60
+Wanti,  91
+Mamad,  78
+Ghana,  83
+Hantu,   80
+Wanti,  71
+Mamad,  78
+Ghana,   67
+Hantu,   90
+Wanti , 70
+Mamad , 77
+Ghana,   92
+Hantu,  82
+Wanti,  81
+Mamad, 70
