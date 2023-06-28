@@ -1,0 +1,44 @@
+Problem Statement:
+
+You need to develop a program that manages employee data using the Employee class. 
+The program should have two main functionalities: displaying employee data and performing employee management operations.
+
+Employee Class:
+Implement a class called Employee that represents an employee. 
+The Employee class should have the following attributes: name, ID number, department, and job title.
+
+Employee Data Display:
+Write a program that creates three instances of the Employee class to store the following data:
+Employee 1:
+
+Name: Susan Meyers
+ID Number: 47899
+Department: Accounting
+Job Title: Vice President
+Employee 2:
+
+Name: Mark Jones
+ID Number: 39119
+Department: IT
+Job Title: Programmer
+Employee 3:
+
+Name: Joy Rogers
+ID Number: 81774
+Department: Manufacturing
+Job Title: Engineer
+The program should create three Employee objects and display the data for each employee on the screen.
+
+Employee Management System:
+Enhance the program to include an employee management system using a dictionary.
+ The dictionary should use the employee ID number as the key.
+The program should present a menu to the user with the following options:
+
+Look up an employee in the dictionary
+Add a new employee to the dictionary
+Change the details (name, department, job title) of an existing employee in the dictionary
+Delete an employee from the dictionary
+Quit the program
+When the program terminates, it should serialize (pickle) the dictionary and save it to a file.
+ When the program starts, it should attempt to load the serialized dictionary from the file
+. If the file does not exist, the program should start with an empty dictionary.
