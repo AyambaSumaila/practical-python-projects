@@ -9,6 +9,6 @@ with open('planets.txt', 'r') as f:
          file_num=file_num.strip()[1:].zfill(2)
                  
          new_name='{}-{}-{}'.format(file_num, file_title, file_ext)
-         a=os.rename(f.tostring(), new_name)
+         a=os.rename(f, new_name)
          print(a)
     

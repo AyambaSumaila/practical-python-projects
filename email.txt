@@ -1,0 +1,22 @@
+From: stephen.marquard@uct.ac.za
+From: stephen.marquard@uct.ac.za
+From: stephen.marquard@uct.ac.za
+Dano: stephen.marquard@uct.ac.za
+From: stephen.marquard@uct.ac.za
+Wrom: stephen.marquard@uct.ac.za
+From: stephen.marquard@uct.ac.za
+From stephen.marquard@uct.ac.za Sat Jan 5 09:14:16 2008
+Return-Path: <postmaster@collab.sakaiproject.org>
+for <source@collab.sakaiproject.org>;
+Received: (from apache@localhost)
+Author: stephen.marquard@uct.ac.za
+From : Hello world do you have any idea about the data type example@gmail.com
+From : Hello world do you have any idea about the data type weple@gmail.com
+From : Hello world do you have any idea about the data type eeple@gmail.com
+From : Hello world do you have any idea about the data type example@gmail.com
+From : Hello world do you have any idea about the data type kenle@gmail.com
+From : Hello world do you have any idea about the data type leple@gmail.com
+Yom : Hello world do you have any idea about the data type example@gmail.com
+From : Hello world do you have any idea about the data type example@gmail.com
+From : Hello world do you have any idea about the data type epert@gmail.com
+Prom : Hello world do you have any idea about the data type apple@gmail.com
